@@ -13,8 +13,11 @@ located at Egypt 🇪🇬, .... yrs old
   
 </div>
 
-# h
+# Discord 
 <div>
+Dm me !
+
+![](https://dcbadge.vercel.app/api/shield/897238854510211143?theme=full-presence)
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=897238854510211143)
 </div>
