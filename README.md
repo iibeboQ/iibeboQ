@@ -1,14 +1,28 @@
-### About me 🧑🏻‍💻
-I'm Bebo ,
-Front-end Devleloper , Ui/UX designer 🖌
-located at Egypt 🇪🇬, .... yrs old 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bebo
+============================================================================================================================
 
+Front-end developer
+-------------------
 
-### 💻 Skills
-   [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/iibeboQ)](https://github.com/iibeboQ)
-   [![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/iiBeboQ)](https://github.com/iibeboQ)
-   [![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/iibeboq)](https://github.com/iibeboQ)
-   [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/iibeboQ)](https://github.com/iibeboQ)
-   [![bootsttap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/iibeboQ)
-   [![jq](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://github.com/iibeboQ)
-
+*   🌍  I'm based in Egypt , cairo 🇪🇬
+*   🖥️  See my portfolio at [My portfolio](http://beboq.xyz)
+*   ✉️  You can contact me at [hi@beboq.xyz](mailto:hi@beboq.xyz)
+*   🚀  I'm currently working on [Extra-Bot](http://extra-bot.xyz)
+## Skills<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+ <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
+                    </p>
+                    
+   ## Socials
+                  
+                  
+   <p align="left">
+                          
+ <a href="https://discord.com/users/897238854510211143" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+                          
+<a href="https://www.github.com/iibeboq" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+## Badges<b>My GitHub Stats</b>
+<a href="http://www.github.com/iibeboq"><img src="https://activity-graph.herokuapp.com/graph?username=iibeboq&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/iibeboq" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iibeboq&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
