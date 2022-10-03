@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end developer
 -------------------
 
-*   🌍  I'm based in Egypt , cairo 🇪🇬
+*   🌍  I'm based in Egypt ,, cairo 🇪🇬
 *   🖥️  See my portfolio at [My portfolio](http://beboq.xyz)
 *   ✉️  You can contact me at [hi@beboq.xyz](mailto:hi@beboq.xyz)
 *   🚀  I'm currently working on [Extra-Bot](http://extra-bot.xyz)
